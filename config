@@ -1,0 +1,4 @@
+NAME=nslsEM-180
+USER=softioc
+PORT=4307
+HOST=xf10idd-ioc1
