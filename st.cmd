@@ -1,1 +1,1 @@
-/epics/support2/quadEM/iocBoot/iocTest/st.cmd
+/epics/support2/quadEM/iocBoot/iocNSLS_EM/st.cmd
