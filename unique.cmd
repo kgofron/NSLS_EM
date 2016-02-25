@@ -1,4 +1,4 @@
-epicsEnvSet("PREFIX",    "XF:10ID-BI:")
+epicsEnvSet("PREFIX",    "XF10ID-BI:")
 #epicsEnvSet("PREFIX",    "quadEMTest:")
 epicsEnvSet("RECORD",    "EM180")
 epicsEnvSet("PORT",      "EM180")
@@ -15,3 +15,6 @@ epicsEnvSet("QUAD_DET",        "NSLS_EM.cmd")
 epicsEnvSet("EPICS_CA_AUTO_ADDR_LIST", "NO")
 epicsEnvSet("EPICS_CA_ADDR_LIST", "10.10.0.255")
 
+#epicsEnvSet("PREFIX",    "quadEMTest:")
+#epicsEnvSet("RECORD",    "NSLS_EM")
+#epicsEnvSet("PORT",      "NSLS_EM")
